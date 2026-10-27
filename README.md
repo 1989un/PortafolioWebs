@@ -20,7 +20,7 @@ En este portafolio presento algunos de los sitios web y aplicaciones que he desa
 ## Proyectos
 
 ### Sitio web corporativo – Minera Poderosa
-<img src="poderosa.jpg" width="600">
+<img src="poderosa.png">
 
 **Descripción:**
 Desarrollo de un sitio web corporativo responsive, orientado a presentar información institucional, noticias, eventos y contenido de la empresa.
