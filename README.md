@@ -19,10 +19,10 @@ En este portafolio presento algunos de los sitios web y aplicaciones que he desa
 
 ## Proyectos
 
-## Sitios web corporativos
+### Sitios web corporativos
 Desarrollo de sitios web corporativos, páginas informativas y soluciones web adaptables a diferentes dispositivos.
 
-## Aplicaciones web
+### Aplicaciones web
 Desarrollo de aplicaciones web orientadas a la gestión de información y la optimización de procesos.
 
 ## Contacto
