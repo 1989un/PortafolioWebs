@@ -35,5 +35,7 @@ Desarrollo de un sitio web corporativo responsive, orientado a presentar informa
 
 **Tipo de proyecto:** Sitio web corporativo responsive.
 
+**Link:** (https://www.poderosa.com.pe/)
+
 ## Contacto
 Puedes contactarme a través de mi perfil de GitHub o LinkedIn.
