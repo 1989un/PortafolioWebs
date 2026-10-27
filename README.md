@@ -29,9 +29,11 @@ Desarrollo de aplicaciones web orientadas a la gestión de información y la opt
 
 ### Sitio web corporativo – Minera Poderosa
 <img src="poderosa.jpg" width="600">
-**Descripción:** Desarrollo de un sitio web corporativo responsive, orientado a presentar información institucional, noticias, eventos y contenido de la empresa.
 
-**Mi participación:**
+**Descripción:**
+Desarrollo de un sitio web corporativo responsive, orientado a presentar información institucional, noticias, eventos y contenido de la empresa.
+
+ Mi participación
 - Desarrollo y adaptación de las páginas web para distintos dispositivos.
 - Implementación de secciones informativas y contenido corporativo.
 - Coordinación de recursos gráficos y tamaños de imágenes para su correcta visualización.
