@@ -38,7 +38,7 @@ Desarrollo de un sitio web corporativo responsive, orientado a presentar informa
 **Link:** (https://www.poderosa.com.pe/)
 
 ### Sitio web corporativo – Minera Poderosa
-<img src="udep.png" width="600">
+<img src="udep.png">
 
 **Descripción:**
 Desarrollo de un sitio web corporativo responsive, orientado a presentar información institucional, noticias, eventos y contenido de la empresa.
