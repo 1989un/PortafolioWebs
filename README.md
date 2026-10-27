@@ -25,7 +25,7 @@ Desarrollo de sitios web corporativos, páginas informativas y soluciones web ad
 ### Aplicaciones web
 Desarrollo de aplicaciones web orientadas a la gestión de información y la optimización de procesos.
 
-![Sitio web de Minera Poderosa](poderosa.jpg)
+<img src="poderosa.jpg" width="600">
 
 ## Contacto
 Puedes contactarme a través de mi perfil de GitHub o LinkedIn.
