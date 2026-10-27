@@ -26,5 +26,4 @@ Desarrollo de sitios web corporativos, páginas informativas y soluciones web ad
 Desarrollo de aplicaciones web orientadas a la gestión de información y la optimización de procesos.
 
 ## Contacto
-
 Puedes contactarme a través de mi perfil de GitHub o LinkedIn.
