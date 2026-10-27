@@ -14,7 +14,7 @@ En este portafolio presento algunos de los sitios web y aplicaciones que he desa
 - SQL Server
 - MySQL
 - Páginas en Responsive Design
-- bootstrap
+- Bootstrap
 - Jquery
 
 ## Proyectos
