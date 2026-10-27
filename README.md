@@ -25,7 +25,21 @@ Desarrollo de sitios web corporativos, páginas informativas y soluciones web ad
 ### Aplicaciones web
 Desarrollo de aplicaciones web orientadas a la gestión de información y la optimización de procesos.
 
+
+
+### Sitio web corporativo – Minera Poderosa
 <img src="poderosa.jpg" width="600">
+**Descripción:** Desarrollo de un sitio web corporativo responsive, orientado a presentar información institucional, noticias, eventos y contenido de la empresa.
+
+**Mi participación:**
+- Desarrollo y adaptación de las páginas web para distintos dispositivos.
+- Implementación de secciones informativas y contenido corporativo.
+- Coordinación de recursos gráficos y tamaños de imágenes para su correcta visualización.
+- Supervisión de dos personas durante el desarrollo del proyecto.
+
+**Tecnologías:** HTML, CSS, Jquery, Boostrapt, ASP.NET MVC, SQL SERVER, Responsive Design
+
+**Tipo de proyecto:** Sitio web corporativo responsive.
 
 ## Contacto
 Puedes contactarme a través de mi perfil de GitHub o LinkedIn.
