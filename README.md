@@ -44,10 +44,10 @@ Desarrollo de un sitio web corporativo responsive, orientado a presentar informa
 Adaptación de un sitio web responsive y mantenimiento, orientado a presentar información académica, institucional y de admisión de la Universidad de Piura, Campus Lima.
 
  **Mi participación**
--Realicé el mantenimiento y actualización de páginas web institucional, adaptando su contenido y estructura según los requerimientos del proyecto.
--Implementé ajustes y mejoras en la interfaz mediante HTML y CSS, siguiendo las indicaciones de diseño y funcionalidad.
--Desarrollé y adapté componentes de la interfaz para asegurar su correcta visualización en distintos dispositivos y resoluciones de pantalla.
--Realicé ajustes en funcionalidades existentes utilizando PHP y jQuery.
+- Realicé el mantenimiento y actualización de páginas web institucional, adaptando su contenido y estructura según los requerimientos del proyecto.
+- Implementé ajustes y mejoras en la interfaz mediante HTML y CSS, siguiendo las indicaciones de diseño y funcionalidad.
+- Desarrollé y adapté componentes de la interfaz para asegurar su correcta visualización en distintos dispositivos y resoluciones de pantalla.
+- Realicé ajustes en funcionalidades existentes utilizando PHP y jQuery.
 
 **Tecnologías:** HTML, CSS, Jquery, Boostrapt, Wordpress, PHP, MySql, Responsive Design
 
