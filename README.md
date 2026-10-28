@@ -25,7 +25,7 @@ En este portafolio presento algunos de los sitios web y aplicaciones que he desa
 **Descripción:**
 Desarrollo de un sitio web corporativo responsive, orientado a presentar información institucional, noticias, eventos y contenido de la empresa.
 
- Mi participación
+ **Mi participación**
 - Desarrollo y adaptación de las páginas web para distintos dispositivos.
 - Implementación de secciones informativas y contenido corporativo.
 - Coordinación de recursos gráficos y tamaños de imágenes para su correcta visualización.
@@ -75,10 +75,10 @@ Adaptación de un sitio web responsive y mantenimiento, orientado a presentar in
 <p><b>Link:</b> (https://extranetperu.grupobbva.pe/memoria2024/)</p>
 <img src="memoria-bbva-2024.png">
 
-**Descripción:**
-Desarrollo y adaptación de páginas web responsive para la publicación de las memorias anuales del BBVA, transformando la información financiera e institucional contenida en documentos PDF en una experiencia web intuitiva, visual y accesible desde distintos dispositivos. El proyecto se realizó de manera anual 2018 hasta 2024, manteniendo una estructura común y actualizando el diseño y contenido para cada edición anual.
+ **Mi participación**
+Desarrollo y adaptación de páginas web responsive para la publicación de las memorias anuales del banco BBVA, transformando la información financiera e institucional contenida en documentos PDF en una experiencia web intuitiva, visual y accesible desde distintos dispositivos. El proyecto se realizó de manera anual 2018 hasta 2024.
 
- Mi participación
+**Mi participación**
 -Participé en la adaptación y desarrollo de las páginas web correspondientes a las memorias anuales del BBVA, desde la edición 2018 hasta la edición 2024.
 -Transformé la información financiera y corporativa de documentos PDF en contenido web estructurado, facilitando su consulta y navegación.
 -Implementé interfaces intuitivas y responsive, adaptando la presentación de la información para diferentes dispositivos y resoluciones de pantalla.
