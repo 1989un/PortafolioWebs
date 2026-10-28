@@ -95,7 +95,7 @@ Desarrollo y adaptación de páginas web responsive para la publicación de las 
 **Descripción:**
 Desarrollo de un sitio web corporativo responsive, orientado a presentar información institucional, noticias, eventos y contenido de la empresa.
 
- Mi participación
+ **Mi participación**
 - Desarrollo y adaptación de las páginas web para distintos dispositivos.
 - Implementación de secciones informativas y contenido corporativo.
 - Coordinación de recursos gráficos y tamaños de imágenes para su correcta visualización.
