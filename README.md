@@ -75,7 +75,7 @@ Adaptación de un sitio web responsive y mantenimiento, orientado a presentar in
 <p><b>Link:</b> (https://extranetperu.grupobbva.pe/memoria2024/)</p>
 <img src="memoria-bbva-2024.png">
 
- **Mi participación**
+**Descripción:**
 Desarrollo y adaptación de páginas web responsive para la publicación de las memorias anuales del banco BBVA, transformando la información financiera e institucional contenida en documentos PDF en una experiencia web intuitiva, visual y accesible desde distintos dispositivos. El proyecto se realizó de manera anual 2018 hasta 2024.
 
 **Mi participación**
