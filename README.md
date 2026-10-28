@@ -63,20 +63,17 @@ Desarrollo de un sitio web corporativo responsive, orientado a presentar informa
 <p><b>Link:</b> (https://extranetperu.grupobbva.pe/memoria2017/)</p>
 <img src="memoria-bbva-2017.png">
 
-<p><b>Link:</b> (https://extranetperu.grupobbva.pe/memoria2020/)</p>
-**Link:** (https://extranetperu.grupobbva.pe/memoria2020/)
-
+<p><b>Link:</b> (https://extranetperu.grupobbva.pe/memoria2021/)</p>
 <img src="memoria-bbva-2021.png">
-**Link:** (https://extranetperu.grupobbva.pe/memoria2021/)
 
+<p><b>Link:</b> (https://extranetperu.grupobbva.pe/memoria2022/)</p>
 <img src="memoria-bbva-2022.png">
-**Link:** (https://extranetperu.grupobbva.pe/memoria2022/)
 
+<p><b>Link:</b> (https://extranetperu.grupobbva.pe/memoria2023/)</p>
 <img src="memoria-bbva-2023.png">
-**Link:** (https://extranetperu.grupobbva.pe/memoria2023/)
 
+<p><b>Link:</b> (https://extranetperu.grupobbva.pe/memoria2024/)</p>
 <img src="memoria-bbva-2024.png">
-**Link:** (https://extranetperu.grupobbva.pe/memoria2024/)
 
 **Descripción:**
 Desarrollo de un sitio web corporativo responsive, orientado a presentar información institucional, noticias, eventos y contenido de la empresa.
