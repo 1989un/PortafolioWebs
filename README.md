@@ -78,13 +78,13 @@ Adaptación de un sitio web responsive y mantenimiento, orientado a presentar in
 **Descripción:**
 Desarrollo y adaptación de páginas web responsive para la publicación de las memorias anuales del banco BBVA, transformando la información financiera e institucional contenida en documentos PDF en una experiencia web intuitiva, visual y accesible desde distintos dispositivos. El proyecto se realizó de manera anual 2018 hasta 2024.
 
-**Mi participación**
--Participé en la adaptación y desarrollo de las páginas web correspondientes a las memorias anuales del BBVA, desde la edición 2018 hasta la edición 2024.
--Transformé la información financiera y corporativa de documentos PDF en contenido web estructurado, facilitando su consulta y navegación.
--Implementé interfaces intuitivas y responsive, adaptando la presentación de la información para diferentes dispositivos y resoluciones de pantalla.
--Realicé ajustes y mejoras en la estructura visual, estilos y componentes de las páginas, manteniendo la consistencia entre las distintas ediciones.
--Colaboré en la actualización y publicación anual de las memorias, incorporando los contenidos y recursos gráficos correspondientes a cada periodo.
-
+ **Mi participación**
+- Participé en la adaptación y desarrollo de las páginas web correspondientes a las memorias anuales del BBVA, desde la edición 2018 hasta la edición 2024.
+- Transformé la información financiera y corporativa de documentos PDF en contenido web estructurado, facilitando su consulta y navegación.
+- Implementé interfaces intuitivas y responsive, adaptando la presentación de la información para diferentes dispositivos y resoluciones de pantalla.
+- Supervisión de dos personas durante el desarrollo del proyecto.
+- Realicé ajustes y mejoras en la estructura visual, estilos y componentes de las páginas, manteniendo la consistencia entre las distintas ediciones.
+  
 **Tecnologías:** HTML, CSS, Jquery, Boostrapt, Responsive Design, Jquery
 
 **Tipo de proyecto:** Sitio web corporativo responsive.
