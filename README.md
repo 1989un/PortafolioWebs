@@ -57,7 +57,7 @@ Desarrollo de un sitio web corporativo responsive, orientado a presentar informa
 
 
 ### Sitio web corporativo – Banco BBVA | Memorias Financieras
-<p>**Link:** (https://extranetperu.grupobbva.pe/memoria2016/)</p>
+<p><b>Link:** (https://extranetperu.grupobbva.pe/memoria2016/)</b>
 <img src="memoria-bbva-2016.png">
 
 **Link:** (https://extranetperu.grupobbva.pe/memoria2017/)
