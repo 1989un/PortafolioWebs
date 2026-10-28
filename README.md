@@ -60,7 +60,7 @@ Desarrollo de un sitio web corporativo responsive, orientado a presentar informa
 <img src="memoria-bbva-2016.png">
 
 **Link:** (https://extranetperu.grupobbva.pe/memoria2016/)
-
+<br>
 <img src="memoria-bbva-2017.png">
 **Link:** (https://extranetperu.grupobbva.pe/memoria2017/)
 
