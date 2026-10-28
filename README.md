@@ -23,7 +23,7 @@ En este portafolio presento algunos de los sitios web y aplicaciones que he desa
 <img src="poderosa.png">
 
 **Descripción:**
-Desarrollo de un sitio web corporativo responsive, orientado a presentar información institucional, noticias, eventos y contenido de la empresa.
+Desarrollo de un sitio web corporativo responsive para Minera Poderosa, orientado a comunicar información institucional, noticias, proyectos y contenido empresarial, facilitando el acceso a la información desde distintos dispositivos.
 
  **Mi participación**
 - Desarrollo y adaptación de las páginas web para distintos dispositivos.
@@ -41,13 +41,12 @@ Desarrollo de un sitio web corporativo responsive, orientado a presentar informa
 <img src="udep.png">
 
 **Descripción:**
-Adaptación de un sitio web responsive y mantenimiento, orientado a presentar información académica, institucional y de admisión de la Universidad de Piura, Campus Lima.
+Mantenimiento y adaptación de un sitio web responsive para la Universidad de Piura (UDEP), Campus Lima, orientado a presentar información académica, institucional y de admisión, facilitando el acceso a sus contenidos desde distintos dispositivos.
 
  **Mi participación**
-- Realicé el mantenimiento y actualización de páginas web institucional, adaptando su contenido y estructura según los requerimientos del proyecto.
-- Implementé ajustes y mejoras en la interfaz mediante HTML y CSS, siguiendo las indicaciones de diseño y funcionalidad.
-- Desarrollé y adapté componentes de la interfaz para asegurar su correcta visualización en distintos dispositivos y resoluciones de pantalla.
-- Realicé ajustes en funcionalidades existentes utilizando PHP y jQuery.
+- Realicé el mantenimiento y actualización de páginas web institucionales, adaptando contenidos y estructuras según los requerimientos del proyecto.
+- Implementé mejoras en la interfaz y funcionalidades existentes, optimizando la presentación y navegación del sitio.
+- Adapté componentes visuales para garantizar una correcta visualización en distintos dispositivos y resoluciones.
 
 **Tecnologías:** HTML, CSS, Jquery, Boostrapt, Wordpress, PHP, MySql, Responsive Design
 
@@ -93,15 +92,15 @@ Desarrollo y adaptación de páginas web responsive para la publicación de las 
 <img src="fenix.png">
 
 **Descripción:**
-Desarrollo de un sitio web corporativo responsive, orientado a presentar información institucional, noticias, eventos y contenido de la empresa.
+Desarrollo de un sitio web corporativo responsive para Fenix, una de las principales empresas de generación y comercialización de energía eléctrica en el Perú. Orientado a comunicar información institucional, servicios, proyectos y contenido empresarial, facilitando su consulta desde distintos dispositivos.
 
  **Mi participación**
-- Desarrollo y adaptación de las páginas web para distintos dispositivos.
-- Implementación de secciones informativas y contenido corporativo.
-- Coordinación de recursos gráficos y tamaños de imágenes para su correcta visualización.
-- Supervisión de dos personas durante el desarrollo del proyecto.
+- Desarrollé y adapté interfaces web responsive, garantizando una correcta visualización en distintos dispositivos.
+- Implementé secciones y funcionalidades según los requerimientos del proyecto.
+- Coordiné la adaptación de recursos gráficos para mantener la consistencia visual del sitio.
+- Supervisé a dos personas durante el desarrollo del proyecto.
 
-**Tecnologías:** HTML, CSS, Jquery, Boostrapt, ASP.NET MVC, SQL SERVER, Responsive Design
+**Tecnologías:** HTML, CSS, Jquery, Boostrapt, Wordpress,PHP MySQL, Responsive Design
 
 **Tipo de proyecto:** Sitio web corporativo responsive.
 
@@ -111,15 +110,15 @@ Desarrollo de un sitio web corporativo responsive, orientado a presentar informa
 <img src="mapcusco.png">
 
 **Descripción:**
-Desarrollo de un sitio web corporativo responsive, orientado a presentar información institucional, noticias, eventos y contenido de la empresa.
+Desarrollo de un sitio web corporativo responsive para el Museo de Arte Precolombino de Cusco, orientado a difundir información institucional, exposiciones, actividades culturales y contenido relacionado con el museo. El sitio fue desarrollado sobre WordPress, incorporando una interfaz adaptable a distintos dispositivos y facilitando la gestión de contenidos.
 
- Mi participación
-- Desarrollo y adaptación de las páginas web para distintos dispositivos.
-- Implementación de secciones informativas y contenido corporativo.
-- Coordinación de recursos gráficos y tamaños de imágenes para su correcta visualización.
-- Supervisión de dos personas durante el desarrollo del proyecto.
+**Mi participación**
+- Desarrollé y adapté interfaces web responsive, asegurando una experiencia de navegación óptima en distintos dispositivos.
+- Implementé secciones y funcionalidades según los requerimientos del proyecto.
+- Coordiné la adaptación de recursos gráficos para una presentación visual consistente.
+- Supervisé a dos personas durante el desarrollo del proyecto.
 
-**Tecnologías:** HTML, CSS, Jquery, Boostrapt, ASP.NET MVC, SQL SERVER, Responsive Design
+**Tecnologías:** HTML, CSS, Jquery, Boostrapt, Wordpress, MySQL,PHP, Responsive Design
 
 **Tipo de proyecto:** Sitio web corporativo responsive.
 
