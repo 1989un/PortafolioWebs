@@ -81,7 +81,6 @@ Desarrollo y adaptación de páginas web responsive para la publicación de las 
 - Participé en la adaptación y desarrollo de las páginas web correspondientes a las memorias anuales del BBVA, desde la edición 2018 hasta la edición 2024.
 - Transformé la información financiera y corporativa de documentos PDF en contenido web estructurado, facilitando su consulta y navegación.
 - Implementé interfaces intuitivas y responsive, adaptando la presentación de la información para diferentes dispositivos y resoluciones de pantalla.
-- Supervisión de dos personas durante el desarrollo del proyecto.
 - Realicé ajustes y mejoras en la estructura visual, estilos y componentes de las páginas, manteniendo la consistencia entre las distintas ediciones.
   
 **Tecnologías:** HTML, CSS, Jquery, Boostrapt, Responsive Design, Jquery
@@ -98,7 +97,6 @@ Desarrollo de un sitio web corporativo responsive para Fenix, una de las princip
 - Desarrollé y adapté interfaces web responsive, garantizando una correcta visualización en distintos dispositivos.
 - Implementé secciones y funcionalidades según los requerimientos del proyecto.
 - Coordiné la adaptación de recursos gráficos para mantener la consistencia visual del sitio.
-- Supervisé a dos personas durante el desarrollo del proyecto.
 
 **Tecnologías:** HTML, CSS, Jquery, Boostrapt, Wordpress,PHP MySQL, Responsive Design
 
