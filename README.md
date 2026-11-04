@@ -41,7 +41,7 @@ Desarrollo de una aplicación web que permite recomendar tallas de vestidos medi
 - Desarrollo de un formulario para ingresar medidas corporales.
 - Implementación de la lógica de cálculo para recomendar la talla según las medidas de cada vestido.
 
-**Tecnologías:** React, JavaScript, Vite, Tailwind CSS, HTML5, JSON, Responsive Design
+**Tecnologías:** React, JavaScript, Vite, Tailwind CSS, HTML5, JSON, Responsive Design, Components, useState
 
 **Tipo de proyecto:** Aplicación web interactiva.
 
