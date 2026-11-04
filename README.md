@@ -28,6 +28,25 @@ En este portafolio encontrarás algunos de los proyectos y aplicaciones donde he
 
 ## Proyectos
 
+### Aplicación web interactiva: TallaJusta AI
+<img src="poderosa.png">
+
+**Descripción:**
+Desarrollo de una aplicación web que permite recomendar tallas de vestidos mediante el registro de medidas corporales y su comparación con las tablas de tallas específicas de cada prenda.
+
+ **Mi participación**
+- Desarrollo de la interfaz de usuario utilizando React.
+- Implementación de un catálogo dinámico de vestidos.
+- Gestión de estados y comunicación entre componentes mediante useState y props.
+- Desarrollo de un formulario para ingresar medidas corporales.
+- Implementación de la lógica de cálculo para recomendar la talla según las medidas de cada vestido.
+
+**Tecnologías:** React, JavaScript, Vite, Tailwind CSS, HTML5, JSON, Responsive Design
+
+**Tipo de proyecto:** Aplicación web interactiva.
+
+**Link:** (https://github.com/1989un/Desarrollo-de-Soluciones-Digitales)
+
 ### Sitio web corporativo – Minera Poderosa
 <img src="poderosa.png">
 
