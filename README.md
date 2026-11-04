@@ -8,6 +8,13 @@ En este portafolio encontrarás algunos de los proyectos y aplicaciones donde he
 ## Tecnologías
 
 - PHP
+- React
+- JavaScript (ES6+)
+- Vite
+- Tailwind CSS
+- JSON
+- Components
+- API REST
 - ASP.NET MVC
 - HTML5
 - CSS3
