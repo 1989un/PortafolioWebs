@@ -29,7 +29,7 @@ En este portafolio encontrarás algunos de los proyectos y aplicaciones donde he
 ## Proyectos
 
 ### Aplicación web interactiva: TallaJusta AI
-<img src="tallajustaAI.png">
+<img src="tallajustaAI_actualizado.png">
 
 **Descripción:**
 Desarrollo de una aplicación web que permite recomendar tallas de vestidos mediante el registro de medidas corporales y su comparación con las tablas de tallas específicas de cada prenda.
