@@ -38,6 +38,7 @@ Desarrollo del frontend con React y del backend con Node.js y Express, implement
 
 **Tecnologías:** API REST de HubSpot, React, JavaScript, Vite, Tailwind CSS, HTML5, JSON, Node.js, Express, useState,Flowbite React, Lucide React
 
+**Link:** (https://github.com/1989un/Desarrollo-de-Soluciones-Digitales/tree/034856e67c3696a9541ea901921572c8a95229bc/HubSpot%20CRM%20Dashboard)
 ### Aplicación web interactiva: TallaJusta AI
 <img src="tallajustaAI_actualizado.png">
 
@@ -55,7 +56,7 @@ Desarrollo de una aplicación web que permite recomendar tallas de vestidos medi
 
 **Tipo de proyecto:** Aplicación web interactiva.
 
-**Link:** (https://github.com/1989un/Desarrollo-de-Soluciones-Digitales)
+**Link:** (https://github.com/1989un/Desarrollo-de-Soluciones-Digitales/tree/034856e67c3696a9541ea901921572c8a95229bc/TallaJusta%20AI)
 
 ### Sitio web corporativo – Minera Poderosa
 <img src="poderosa.png">
