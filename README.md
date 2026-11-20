@@ -28,7 +28,7 @@ En este portafolio encontrarás algunos de los proyectos y aplicaciones donde he
 
 ## Proyectos
 ### HubSpot CRM Dashboard
-<img src="tallajustaAI_actualizado.png">
+<img src="crm.png">
 
 **Descripción:**
 Aplicación web desarrollada para la gestión de contactos empresariales mediante la integración de la API REST de HubSpot. Permite consultar, visualizar y editar información de contactos a través de una interfaz interactiva.
