@@ -24,9 +24,19 @@ En este portafolio encontrarás algunos de los proyectos y aplicaciones donde he
 - MySQL
 - Páginas en Responsive Design
 - Bootstrap
-- Jquery
+- Jquery, otros..
 
 ## Proyectos
+### HubSpot CRM Dashboard
+<img src="tallajustaAI_actualizado.png">
+
+**Descripción:**
+Aplicación web desarrollada para la gestión de contactos empresariales mediante la integración de la API REST de HubSpot. Permite consultar, visualizar y editar información de contactos a través de una interfaz interactiva.
+
+**Mi participación**
+Desarrollo del frontend con React y del backend con Node.js y Express, implementando la comunicación con la API REST de HubSpot para la consulta y actualización de registros.
+
+**Tecnologías:** API REST de HubSpot, React, JavaScript, Vite, Tailwind CSS, HTML5, JSON, Node.js, Express, useState,Flowbite React, Lucide React
 
 ### Aplicación web interactiva: TallaJusta AI
 <img src="tallajustaAI_actualizado.png">
