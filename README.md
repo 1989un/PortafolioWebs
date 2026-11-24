@@ -1,4 +1,4 @@
-# Portafolio de Frontend Developer | Desarrollo Web
+# Portafolio de Frontend Developer | Desarrollo Web | Analista Programador
 
 
 ¡Hola! Soy Frontend Developer orientada a construir interfaces web y aplicaciones atractivas, responsivas y eficientes. Me apasiona crear aplicaciones y transformar diseños en experiencias digitales fluidas, combinando código limpio y las mejores prácticas.
